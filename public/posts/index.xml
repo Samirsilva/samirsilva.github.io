@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Samir Santos</title>
-        <link>/posts/</link>
+        <link>samirsilva.github.io/posts/</link>
         <description>Recent content in Posts on Samir Santos</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Thu, 24 Oct 2019 23:54:18 -0300</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="samirsilva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Welcome to the Jungle</title>
-            <link>/posts/2019/10/welcome-to-the-jungle/</link>
+            <link>samirsilva.github.io/posts/2019/10/welcome-to-the-jungle/</link>
             <pubDate>Thu, 24 Oct 2019 23:54:18 -0300</pubDate>
             
-            <guid>/posts/2019/10/welcome-to-the-jungle/</guid>
+            <guid>samirsilva.github.io/posts/2019/10/welcome-to-the-jungle/</guid>
             <description>teste</description>
             <content type="html"><![CDATA[<p>teste</p>
 ]]></content>

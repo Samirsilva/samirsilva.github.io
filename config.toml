@@ -1,0 +1,89 @@
+baseurl = "samirsilva.github.io/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+[author]
+  name = "Samir Santos"
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Samir Santos"
+  keywords = "homepage, blog, science, informatics, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "light"
+
+[languages]
+  [languages.en]
+    title = "Samir Santos"
+    subtitle = "System Analisty"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Articles"
+    url        = "/posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"    
+
+  # Social icons
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/saam.sants"
+  [[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/samir.silva1"    
+  [[params.social]]
+    name = "email"
+    url  = "samirsilva16@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/samirsilva"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/samir-silva-355a30b1/"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
