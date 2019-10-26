@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samir Santos</title>
+    <link>https://samirsilva.github.io/</link>
+    <description>Recent content on Samir Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Oct 2019 23:55:44 -0300</lastBuildDate>
+    
+	<atom:link href="https://samirsilva.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://samirsilva.github.io/about/</link>
+      <pubDate>Thu, 24 Oct 2019 23:55:44 -0300</pubDate>
+      
+      <guid>https://samirsilva.github.io/about/</guid>
+      <description>asaas</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Jungle</title>
+      <link>https://samirsilva.github.io/posts/2019/10/welcome-to-the-jungle/</link>
+      <pubDate>Thu, 24 Oct 2019 23:54:18 -0300</pubDate>
+      
+      <guid>https://samirsilva.github.io/posts/2019/10/welcome-to-the-jungle/</guid>
+      <description>teste</description>
+    </item>
+    
+  </channel>
+</rss>
